@@ -42,4 +42,37 @@ font-family: 'Roboto Condensed', sans-serif;
 }
 
 }
-
+html{
+	scroll-behavior: smooth;
+	margin: 0px;
+	padding: 0px;
+	}
+	html,body{
+	overflow-x: hidden;
+	}
+	body{
+	margin: 0 auto;
+	}
+	.bodi{
+	font-family: Arvo, serif;
+	background: linear-gradient(0deg,rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url(/assets/1.jpeg) no-repeat center center ;
+	background-attachment: fixed;
+	background-size: cover; 
+	height: 150%;
+	
+	}
+	.hh{
+	font-family: 'Solway';
+	text-align: center;
+	font-size: 80px;
+	}
+	.disabled {
+	pointer-events: none;
+	cursor: default;
+	}
+	
+	.big{
+	font-size: large;
+	padding: 3px;
+	}
+	

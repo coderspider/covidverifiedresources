@@ -39,4 +39,60 @@ html {
      height:520px;
      
  }
- 
+ .pp{
+	border: 1px solid black;
+	
+	padding: 30px;
+	margin: auto 0px;
+	}
+	input:focus {outline:none!important;}
+	p{
+	font-family: 'Solway';
+	
+	padding: 15px;
+	margin: 10px;
+	font-size: 18px;
+	}
+	h2{
+	
+	font-family: 'Solway';
+	padding: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+	
+	}
+	.fixed-bottom{
+	position: fixed;
+	width:40px;
+	}
+	.center{
+	text-align: center;
+	}
+	.col-md-4{
+	text-align: center;
+	padding: 20px;
+	max-width: 1000px;
+	}
+	#home{
+	margin-top: 250px;
+	}
+	.fixed-topp{
+	position:fixed;top:0;right:0;left:90%;z-index:1030
+	}
+	.icons p{
+	color: white;
+	font-size: 15px;
+	font-family: sans-serif;
+	padding: 10px;
+	}
+	.jumbotronn{
+	background-color: transparent;
+	font-family: 'Noto Serif';
+	
+	color: #fff;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+	letter-spacing: 3px;
+	margin-top: 20px;
+	} 
